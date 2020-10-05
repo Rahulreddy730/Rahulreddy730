@@ -66,7 +66,7 @@
 <br />
 <br />
 <img align="left" alt="MongoDB" width="15px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
-<img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/wordpress-website.png" />
+<img align="left" alt="Wordpress" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
 
 
 <br />
