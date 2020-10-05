@@ -71,7 +71,7 @@
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730/Slack_clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=FlutterExampleApps&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clones&theme=light" />
 
 </a>
 
