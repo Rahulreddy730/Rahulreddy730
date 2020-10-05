@@ -27,7 +27,7 @@
  <img align="left" alt="wixcom" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/globe.png" />
 </a>
 <a href="https://codepen.io/Rahulreddy7306" target="_blank">
- <img align="left" alt="rahulreddy | Codepen" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codepen.png" />
+ <img align="left" alt="rahulreddy | Codepen" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codepen.png" />
 </a>
 <a href="mailto:easwerrahulreddy@gmail.com" target="_blank">
  <img align="left" alt="rahulreddy | Mail" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/envelope.png" />
@@ -61,7 +61,7 @@
 <img align="left" alt="Firebase" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.png" />
 <img align="left" alt="GitHub" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" />
 <img align="left" alt="Git" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.png" />
-<img align="left" alt="SQL" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
+<img align="left" alt="SQL" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
 <img align="left" alt="Wordpress" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
 <img align="left" alt="MongoDB" width="15px" top="10px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <img align="left" alt="Terminal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
