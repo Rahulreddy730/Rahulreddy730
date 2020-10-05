@@ -59,19 +59,19 @@
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=dark&hide_langs_below=1" />
 </a>
 
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulreddy730&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulreddy730&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730/Slack_clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone/edit/master/README.md&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone&theme=dark" />
 
 </a>
 
