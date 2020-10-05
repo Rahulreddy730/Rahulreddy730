@@ -57,16 +57,17 @@
 <img align="left" alt="React" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/react-js.png" />
 <img align="left" alt="Vue" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/vue-js.png"/>
 <img align="left" alt="Angular" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/angular.svg" />
-<img align="left" alt="Node.js" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/node-js.png" />
-<img align="left" alt="Firebase" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.png" />
+<img align="left" alt="Node.js" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/node-js.png" />
+<img align="left" alt="Firebase" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.png" />
 <img align="left" alt="GitHub" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" />
 <img align="left" alt="Git" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.png" />
 <img align="left" alt="SQL" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
 <img align="left" alt="Wordpress" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
+<img align="left" alt="MongoDB" width="15px" top="10px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <img align="left" alt="Terminal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
 <br />
 <br />
-<img align="left" alt="MongoDB" width="15px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
+
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
 
 
@@ -74,7 +75,7 @@
 <br />
 <br />
 <br />
-<div style="padding-top: 30px">
+<div>
 <details>
  <summary>Gihub Stats</summary>
 <a href="https://github.com/Rahulreddy730">
