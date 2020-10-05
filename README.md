@@ -70,9 +70,8 @@
 
 <br />
 <br />
-<a href="https://github.com/Rahulreddy730/Slack_clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone#readme&theme=merko" />
-
+<a href="https://github.com/Rahulreddy730/Slack_clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone&theme=merko" />
 </a>
 
 
