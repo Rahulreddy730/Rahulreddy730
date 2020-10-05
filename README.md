@@ -26,8 +26,9 @@
 ### Connect with me:
 
 <a href="https://easwerrahulreddy.wixsite.com/rahulreddyv"><img align="left" alt="wixcom" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/globe.png" /></a>
-<a href="https://twitter.com/Rahulreddy7306"><img align="left" alt="rahulreddy | Twitter" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-color.png" /></a>
 <a href="https://www.linkedin.com/in/rahulreddy-vemireddy/"><img align="left" alt="rahulreddy | LinkedIn" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.png" /></a>
+<a href="https://twitter.com/Rahulreddy7306"><img align="left" alt="rahulreddy | Twitter" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-color.png" /></a>
+<a href="https://www.facebook.com/easwerrahul.reddy.7"><img align="left" alt="rahulreddy | Facebook" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/facebook-round-color.png" /></a>
 <a href="https://www.instagram.com/rockandrollrahul/?hl=en"><img align="left" alt="rockandroll | Instagram" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round-color.png" /></a>
 
 <br />
