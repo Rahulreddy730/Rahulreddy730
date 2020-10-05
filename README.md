@@ -65,13 +65,13 @@
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulreddy730&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulreddy730&show_icons=true&theme=merko&line_height=27" alt="Pawan's github stats"/>
 </a>
 
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730/Slack_clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone#readme&theme=dark" />
 
 </a>
 
