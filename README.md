@@ -4,7 +4,7 @@
 **Rahulreddy730/Rahulreddy730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<br /><br />
+<br />
 
 ### List About me:
 
@@ -54,3 +54,16 @@
 <img align="left" alt="MongoDB" width="17px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <img align="left" alt="Terminal" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
 <img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
+
+
+<br />
+<br />
+<a href="https://github.com/Rahulreddy730">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=light&hide_langs_below=1" />
+</a><
+
+<br />
+<br />
+<a href="https://github.com/Rahulreddy730">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahulreddy730&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
+</a>
