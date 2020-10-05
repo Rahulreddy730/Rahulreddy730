@@ -53,7 +53,7 @@
 <img align="left" alt="MongoDB" width="15px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <br />
 <br />
-<img align="left" alt="Terminal" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
+<img align="left" alt="Terminal" width="20px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
 <img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
 
 
