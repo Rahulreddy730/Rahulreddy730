@@ -59,7 +59,7 @@
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=merko&hide_langs_below=1" />
 </a>
 
 <br />
@@ -71,7 +71,7 @@
 <br />
 <br />
 <a href="https://github.com/Rahulreddy730/Slack_clones">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone#readme&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulredd730&repo=Slack_clone#readme&theme=merko" />
 
 </a>
 
