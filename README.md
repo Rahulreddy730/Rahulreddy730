@@ -1,12 +1,10 @@
 ### Hi there 👋, I'm Rahulreddy VEMIREDDY
 
 
-<hr style="border: 1px solid green;"/>
+<hr/>
 <!--
 **Rahulreddy730/Rahulreddy730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
-<br />
 
 ### List About me:
 
@@ -76,6 +74,7 @@
 <br />
 <br />
 <br />
+<div style="padding-top: 30px">
 <details>
  <summary>Gihub Stats</summary>
 <a href="https://github.com/Rahulreddy730">
@@ -103,5 +102,7 @@
 </div>
 
 </details>
+
+</div>
 
 
