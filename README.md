@@ -62,10 +62,9 @@
 <img align="left" alt="Git" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.png" />
 <img align="left" alt="SQL" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
 <img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
-
-<br />
-<br />
 <img align="left" alt="Terminal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
+<br />
+<br />
 <img align="left" alt="MongoDB" width="15px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/wordpress-website.png" />
 
