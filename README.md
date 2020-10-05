@@ -48,8 +48,8 @@
 <img align="left" alt="GitHub" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" />
 <img align="left" alt="Git" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.png" />
 <img align="left" alt="SQL" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
-<img align="left" alt="MySQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="60px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
 <img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
-<img align="left" alt="MongoDB" width="24px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
+<img align="left" alt="MongoDB" width="17px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
 <img align="left" alt="Terminal" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
 <img align="left" alt="Wordpress" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
