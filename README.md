@@ -23,25 +23,25 @@
 
 ### Connect with me:
 
-<a href="https://easwerrahulreddy.wixsite.com/rahulreddyv" target=_blank>
+<a href="https://easwerrahulreddy.wixsite.com/rahulreddyv" target="_blank">
  <img align="left" alt="wixcom" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/globe.png" />
 </a>
-<a href="https://codepen.io/Rahulreddy7306" target=_blank>
+<a href="https://codepen.io/Rahulreddy7306" target="_blank">
  <img align="left" alt="rahulreddy | Codepen" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codepen.png" />
 </a>
-<a href="mailto:easwerrahulreddy@gmail.com" target=_blank>
+<a href="mailto:easwerrahulreddy@gmail.com" target="_blank">
  <img align="left" alt="rahulreddy | Mail" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/envelope.png" />
  </a>
-<a href="https://www.linkedin.com/in/rahulreddy-vemireddy/" target=_blank>
+<a href="https://www.linkedin.com/in/rahulreddy-vemireddy/" target="_blank">
  <img align="left" alt="rahulreddy | LinkedIn" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round.png" />
 </a>
-<a href="https://twitter.com/Rahulreddy7306" target=_blank>
+<a href="https://twitter.com/Rahulreddy7306" target="_blank">
  <img align="left" alt="rahulreddy | Twitter" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/twitter-round.png" />
 </a>
-<a href="https://www.facebook.com/easwerrahul.reddy.7" target=_blank>
+<a href="https://www.facebook.com/easwerrahul.reddy.7" target="_blank">
  <img align="left" alt="rahulreddy | Facebook" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/facebook-round.png" />
 </a>
-<a href="https://www.instagram.com/rockandrollrahul/?hl=en" target=_blank>
+<a href="https://www.instagram.com/rockandrollrahul/?hl=en" target="_blank">
  <img align="left" alt="rockandroll | Instagram" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-round.png" /></a>
 
 <br />
