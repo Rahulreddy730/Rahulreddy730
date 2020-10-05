@@ -59,6 +59,9 @@
 
 <br />
 <br />
+
+<details>
+ <summary>Gihub Stats</summary>
 <a href="https://github.com/Rahulreddy730">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulreddy730&theme=merko&hide_langs_below=1" />
 </a>
@@ -82,3 +85,5 @@
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+</details>
