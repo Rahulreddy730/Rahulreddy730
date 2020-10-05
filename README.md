@@ -70,9 +70,10 @@
 
 <br />
 <br />
+<!--
 <a href="https://github.com/Rahulreddy730/slackclone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rahulreddy730&repo=slackcolne&theme=merko" />
-</a>
+</a>-->
 
 
 <div align="center">
