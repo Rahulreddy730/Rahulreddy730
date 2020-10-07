@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rahulreddy VEMIREDDY
+### Hi there 👋, I'm RahulReddy VEMIREDDY
 
 
 <hr/>
@@ -9,13 +9,13 @@
 ### List About me:
 
 
-- 🎤 I am a passonate Full-Stack & Frontend developer
+- 🎤 I am a passonate Full-Stack developer
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🌋 I’m always looking to go deeper in JavaScript World.
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 💬 Actively writing Blogs & Websites
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play guitar
 - 📫 How to reach me <a href="mailto:easwerrahulreddy@gmail.com">Let's get in touch!</a>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
