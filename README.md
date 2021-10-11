@@ -24,7 +24,7 @@
 ### Connect with me:
 
 <a href="https://easwerrahulreddy.wixsite.com/rahulreddyv" target="_blank">
- <img align="left" alt="wixcom" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/globe.png" />
+ <img align="left" alt="wixcom" width="25px" src="https://img.icons8.com/windows/32/000000/wix.png"/>
 </a>
 <a href="https://codepen.io/Rahulreddy7306" target="_blank">
  <img align="left" alt="rahulreddy | Codepen" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codepen.png" />
