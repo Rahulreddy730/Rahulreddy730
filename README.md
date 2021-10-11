@@ -57,7 +57,7 @@
 <img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img align="left" alt="Vue" width="28px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
 <img align="left" alt="Angular" width="28px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-<img align="left" alt="Node.js" width="28px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="Node.js" width="36px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="Firebase" width="28px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img align="left" alt="GitHub" width="28px" src="https://img.icons8.com/color-glass/48/000000/github.png"/>
 <img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
