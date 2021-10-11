@@ -50,12 +50,12 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="HTML5" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/css.png" />
-<img align="left" alt="JavaScript" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/javascript-programming-language.png" />
-<img align="left" alt="Sass" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/sass.png" />
-<img align="left" alt="React" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/react-js.png" />
-<img align="left" alt="Vue" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/vue-js.png"/>
+<img align="left" alt="HTML5" width="28px" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+<img align="left" alt="CSS3" width="28px" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" alt="Sass" width="28px" src="https://img.icons8.com/color/48/000000/sass.png"/>
+<img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img align="left" alt="Vue" width="28px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>>
 <img align="left" alt="Angular" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/angular.svg" />
 <img align="left" alt="Node.js" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/node-js.png" />
 <img align="left" alt="Firebase" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.png" />
