@@ -55,20 +55,16 @@
 <img align="left" alt="JavaScript" width="28px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" alt="Sass" width="28px" src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img align="left" alt="React" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" alt="Vue" width="28px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>>
-<img align="left" alt="Angular" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/angular.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/node-js.png" />
-<img align="left" alt="Firebase" width="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/google-firebase.png" />
-<img align="left" alt="GitHub" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/github.png" />
-<img align="left" alt="Git" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/git.png" />
-<img align="left" alt="SQL" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/database.png" />
-<img align="left" alt="Wordpress" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/wordpress.png" />
-<img align="left" alt="MongoDB" width="15px" top="10px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/mongodb.png" />
-<img align="left" alt="Terminal" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/cmd-terminal.png" />
-<br />
-<br />
-
-<img align="left" alt="MySQL" width="40px" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
+<img align="left" alt="Vue" width="28px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+<img align="left" alt="Angular" width="28px" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="Firebase" width="22px" src="https://img.icons8.com/color/48/000000/firebase.png"/>
+<img align="left" alt="GitHub" width="28px" src="https://img.icons8.com/color-glass/48/000000/github.png"/>
+<img align="left" alt="Git" width="28px" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="SQL" width="25px" src="https://img.icons8.com/plasticine/100/000000/oracle-pl-sql--v3.png"/>
+<img align="left" alt="Wordpress" width="25px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img align="left" alt="MongoDB" width="15px" top="10px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<img align="left" alt="MySQL" width="40px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 
 
