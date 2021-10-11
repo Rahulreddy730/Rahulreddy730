@@ -49,7 +49,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="28px"src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Visual Studio Code" width="28px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Visual Studio Code" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/html.png" />
 <img align="left" alt="CSS3" width="28px" src="https://uxwing.com/wp-content/themes/uxwing/download/07-design-and-development/css.png" />
