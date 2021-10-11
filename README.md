@@ -41,8 +41,6 @@
 <a href="https://www.facebook.com/easwerrahul.reddy.7" target="_blank">
  <img align="left" alt="rahulreddy | Facebook" width="28px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
 </a>
-<a href="https://www.instagram.com/rockandrollrahul/?hl=en" target="_blank">
- <img align="left" alt="rockandroll | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 
 <br />
 <br />
