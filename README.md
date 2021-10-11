@@ -24,25 +24,25 @@
 ### Connect with me:
 
 <a href="https://easwerrahulreddy.wixsite.com/rahulreddyv" target="_blank">
- <img align="left" alt="wixcom" width="25px" src="https://img.icons8.com/windows/48/000000/wix.png"/>
+ <img align="left" alt="wixcom" width="28px" src="https://img.icons8.com/windows/48/000000/wix.png"/>
 </a>
 <a href="https://codepen.io/Rahulreddy7306" target="_blank">
- <img align="left" alt="rahulreddy | Codepen" width="25px" src="https://img.icons8.com/ios/48/000000/codepen.png"/>
+ <img align="left" alt="rahulreddy | Codepen" width="28px" src="https://img.icons8.com/ios/48/000000/codepen.png"/>
 </a>
 <a href="mailto:easwerrahulreddy@gmail.com" target="_blank">
- <img align="left" alt="rahulreddy | Mail" width="25px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
+ <img align="left" alt="rahulreddy | Mail" width="28px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
  </a>
 <a href="https://www.linkedin.com/in/rahulreddy-vemireddy/" target="_blank">
- <img align="left" alt="rahulreddy | LinkedIn" width="25px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+ <img align="left" alt="rahulreddy | LinkedIn" width="28px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
 <a href="https://twitter.com/Rahulreddy7306" target="_blank">
- <img align="left" alt="rahulreddy | Twitter" width="25px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+ <img align="left" alt="rahulreddy | Twitter" width="28px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
 <a href="https://www.facebook.com/easwerrahul.reddy.7" target="_blank">
- <img align="left" alt="rahulreddy | Facebook" width="25px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
+ <img align="left" alt="rahulreddy | Facebook" width="28px" src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/>
 </a>
 <a href="https://www.instagram.com/rockandrollrahul/?hl=en" target="_blank">
- <img align="left" alt="rockandroll | Instagram" width="25px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+ <img align="left" alt="rockandroll | Instagram" width="28px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 
 <br />
 <br />
