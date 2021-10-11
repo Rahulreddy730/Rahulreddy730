@@ -30,7 +30,7 @@
  <img align="left" alt="rahulreddy | Codepen" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/codepen.png" />
 </a>
 <a href="mailto:easwerrahulreddy@gmail.com" target="_blank">
- <img align="left" alt="rahulreddy | Mail" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/01-user_interface/envelope.png" />
+ <img align="left" alt="rahulreddy | Mail" width="25px" src="https://img.icons8.com/color/48/000000/apple-mail.png"/>
  </a>
 <a href="https://www.linkedin.com/in/rahulreddy-vemireddy/" target="_blank">
  <img align="left" alt="rahulreddy | LinkedIn" width="25px" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-round.png" />
