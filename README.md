@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🌋 I’m always looking to go deeper in JavaScript World.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 💬 Actively writing Blogs & Websites
 - ⚡ Fun fact: I love to draw and play guitar
 - 📫 How to reach me <a href="mailto:easwerrahulreddy@gmail.com">Let's get in touch!</a>
